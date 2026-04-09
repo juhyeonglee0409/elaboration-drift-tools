@@ -36,7 +36,7 @@ Materials for the blind validation protocol described in Lee (2026b), Section 2.
 
 ## Data availability
 
-Anonymized conversation logs (391 sessions, 12,925 relays) are available for independent reanalysis upon reasonable request to the author, subject to privacy review. Contact: [이메일주소]
+Anonymized conversation logs (391 sessions, 12,925 relays) are available for independent reanalysis upon reasonable request to the author, subject to privacy review. Contact: [juhyeonglee0409@gmail.com]
 
 ## Usage
 
